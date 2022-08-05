@@ -1,6 +1,6 @@
-.gaming{
+.first{
 
-    background-color: aqua;
+    background-color: green;
 }
 
 .gaming-container{
@@ -8,15 +8,20 @@
     text-align: center;
     justify-content: center;
     margin: 2% 0 2% 0;
+    background-color: aquamarine;
 }
 
 .cards{
 
+   text-align: center;
+
+   background-color: orangered;
    
 }
 
 .card{
 
+   
     
 }
 
