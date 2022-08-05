@@ -1,0 +1,33 @@
+nav{
+
+    background-color: white;
+    height: 40px;
+}
+
+.symbol{
+
+    width: fit-content;
+    margin-top: 0.3%;
+    margin-left: 0px;
+
+}
+
+ul{
+
+    display: flex;
+    margin-left: 1%;
+}
+
+li{
+    margin-block-start: 1%;
+    margin-left: 2%;
+    display: inline-block;
+    list-style: none;
+    cursor: pointer;
+    color: #667;
+}
+
+.end{
+
+    margin-left: 45%;
+}
