@@ -1,4 +1,47 @@
-footer{
+footer {
 
+    margin-top: 5%;
     background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.columns {
+
+    width: 30%;
+}
+
+h2 {
+
+    color: white;
+    margin-top: 16%;
+    margin-bottom: 2%;
+    font-size: 25px;
+}
+
+ul {
+
+    color: #76b900;
+    list-style: none;
+}
+
+li {
+
+    font-size: 18px;
+    margin-top: 4%;
+}
+
+
+.separador {
+
+
+    justify-content: center;
+    background: black;
+}
+
+.separador div {
+
+    width: 100%;
+    background-color: #747474;
+    height: 1px;
 }

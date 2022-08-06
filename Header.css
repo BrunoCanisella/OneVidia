@@ -15,13 +15,13 @@ nav{
 
 }
 
-ul{
+.initial{
 
     display: flex;
     margin-left: 1%;
 }
 
-li{
+.info{
     margin-block-start: 1%;
     margin-left: 2%;
     display: inline-block;
@@ -30,7 +30,13 @@ li{
     color: #667;
 }
 
-.end{
+.info1{
 
+    margin-block-start: 1%;
+    margin-left: 2%;
+    display: inline-block;
+    list-style: none;
+    cursor: pointer;
+    color: #667;
     margin-left: 45%;
 }
