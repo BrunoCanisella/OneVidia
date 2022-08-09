@@ -1,4 +1,4 @@
-footer {
+.columns-container {
 
     margin-top: 5%;
     background-color: black;
@@ -8,7 +8,44 @@ footer {
 
 .columns {
 
-    width: 30%;
+    width: 28%;
+    margin-bottom: 0.5%;
+}
+
+.Sign {
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 2%;
+    background-color: black;
+    position: static;
+    height: 170px;
+}
+
+.imgs {
+
+    height: 40px;
+
+}
+
+.icons {
+
+    cursor: pointer;
+    width: fit-content;
+    
+}
+
+input {
+
+    background-color: #76b900;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    margin-right: 22%;
+    margin-left: 2%;
+    width: 100px;
+    height: 50px;
 }
 
 h2 {
@@ -29,6 +66,13 @@ li {
 
     font-size: 18px;
     margin-top: 4%;
+    cursor: pointer;
+    width: fit-content;
+}
+
+li:hover {
+
+    color: #a7ff0a;
 }
 
 
@@ -46,8 +90,21 @@ li {
     height: 1px;
 }
 
-.last{
+.last {
 
     margin: 1% 0 1% 0;
-    
+
+}
+
+p,
+span {
+
+    margin-bottom: 1%;
+}
+
+.ps {
+
+    color: white;
+    margin: 0% 1% 0% 1%;
+    font-size: 18px;
 }
